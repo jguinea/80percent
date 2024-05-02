@@ -23,4 +23,9 @@ $(document).ready(function(){
       document.getElementById(selected).style.display="block"
       $(this).addClass("active");
     });
+    $('.masthead-brand').click(function(){
+      $('.content').css({
+        'display': 'none'
+      });
+    });
   });
