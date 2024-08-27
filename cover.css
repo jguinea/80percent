@@ -24,11 +24,9 @@ a:hover {
  * Base structure
  */
 p{
-  font-size: 12px;
+  font-size: 11px;
 }
-#About{
- width: 328px;
-}
+
 html,
 body {
   height: 100%;
