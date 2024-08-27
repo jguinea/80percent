@@ -26,6 +26,9 @@ a:hover {
 p{
   font-size: 12px;
 }
+#About{
+ width: 328px;
+}
 html,
 body {
   height: 100%;
